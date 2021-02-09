@@ -1,2 +1,2 @@
 # workoutapp
-A siimple workout planning appp
+A simple workout planing appp
