@@ -1,2 +1,3 @@
 # workoutapp
-A simple workout planing appp
+A simple workout planing app
+
